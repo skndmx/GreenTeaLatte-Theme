@@ -1,4 +1,4 @@
-# GreenTeaLatte-Theme (Eye Comfortable Theme)
+# GreenTeaLatte-Theme <br> (Eye Comfortable Theme for Sublime Text 2)
 Hi, my name is Xun Jin, this is my first repo in GitHub. 
 I made this **Eye Comfortable theme** out of ncecessity, because I know your eyes get tired after hours of coding using Sublime Text 2 which is one of the most popular IDEs out there.
 ***

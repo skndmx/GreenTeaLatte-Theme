@@ -36,11 +36,11 @@
 				<key>bracketsForeground</key>
 				<string>#cc3333</string>
 				<key>bracketsOptions</key>
-				<string>foreground</string>
+				<string>underline foreground</string>
 				<key>bracketContentsForeground</key>
-				<string></string>
+				<string>#cc3333</string>
 				<key>bracketContentsOptions</key>
-				<string></string>
+				<string>underline foreground</string>
 			</dict>
 		</dict>
 		<dict>

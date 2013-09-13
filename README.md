@@ -12,5 +12,5 @@ The Sublime Text 2 screenshot is on Mac OSX with the font [Source Code Pro](http
 2. Choose GreenTeaLatte theme from Sublime Text 2 from `Preferences->Color Scheme->Color Scheme Default` .
 
 ### Windows
-1. Download the .tmTheme file into your `%APPDATA%\Sublime Text 2\Packages\User\Color Scheme - Default' directory.
-2. Choose GreenTeaLatte theme from Sublime Text 2 from `Preferences->Color Scheme->Color Scheme Default` .
+1. Download the .tmTheme file into your `%APPDATA%\Sublime Text 2\Packages\User\Color Scheme - Default` directory.
+2. Choose GreenTeaLatte theme from Sublime Text 2 from `Preferences->Color Scheme` .
